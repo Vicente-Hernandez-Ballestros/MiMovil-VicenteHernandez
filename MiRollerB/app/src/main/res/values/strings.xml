@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiRollerB</string>
+    <string name="lbl_saludo1">Dado 1</string>
+    <string name="lbl_saludo2">Dado 2</string>
+    <string name="button_click_here">Lanzar</string>
+
+
+</resources>
