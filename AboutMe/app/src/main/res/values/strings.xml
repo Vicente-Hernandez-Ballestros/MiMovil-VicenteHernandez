@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Vicente Hernandez</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">Hola mi nombre es Vicente
+        \n\nme gusta practicar deportes con mis amigos
+        \n\ntambien amo jugar videojuegos
+        \n\nsoy de iramuco G.T.O. es un pueblo del municipio de Acambaro,
+        todo ahi es muy tranquilo espero que algun dia puedan visitarlo
+    </string>
+</resources>
